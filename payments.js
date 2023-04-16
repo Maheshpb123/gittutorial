@@ -1,1 +1,1 @@
-console.log("added payments");
+console.log("fixed bug");
